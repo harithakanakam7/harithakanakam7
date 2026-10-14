@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=120&text=Haritha%20Kanakam&fontSize=34&fontColor=F1F5F9" alt="Haritha Kanakam"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=140&section=header&text=Haritha%20Kanakam&fontSize=36&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Haritha Kanakam"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://harithakanakam.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/harithakanakam7">
     <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -42,11 +42,11 @@ I'm an Electronics and Communication Engineering student with a focus on embedde
 <p align="center">
   <img src="https://img.shields.io/badge/Embedded_C-1E293B?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C"/>
   <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NXP_S32K144-4F46E5?style=for-the-badge" alt="NXP S32K144"/>
+  <img src="https://img.shields.io/badge/NXP_S32K144-8B5CF6?style=for-the-badge" alt="NXP S32K144"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CAN-4F46E5?style=for-the-badge" alt="CAN"/>
+  <img src="https://img.shields.io/badge/CAN-8B5CF6?style=for-the-badge" alt="CAN"/>
   <img src="https://img.shields.io/badge/UART-1E293B?style=for-the-badge" alt="UART"/>
   <img src="https://img.shields.io/badge/I2C-1E293B?style=for-the-badge" alt="I2C"/>
   <img src="https://img.shields.io/badge/SPI-1E293B?style=for-the-badge" alt="SPI"/>
@@ -74,7 +74,7 @@ Door-status communication over CAN and interior light control on the S32K144.
 
 `S32K144` · `CAN` · `Embedded C`
 
-[View repository →](https://github.com/harithakanakam7/Car_Cabin_Interior_light_simulation_using_CAN_with_S32K144)
+[View repository](https://github.com/harithakanakam7/Car_Cabin_Interior_light_simulation_using_CAN_with_S32K144)
 
 </details>
 
@@ -84,7 +84,7 @@ Door-status communication over CAN and interior light control on the S32K144.
 
 Startup memory readout, RAM mirrors and CRC validation concepts for embedded ECUs.
 
-[View repository →](https://github.com/harithakanakam7/Read-All-at-Startup)
+[View repository](https://github.com/harithakanakam7/Read-All-at-Startup)
 
 </details>
 
@@ -94,19 +94,15 @@ Startup memory readout, RAM mirrors and CRC validation concepts for embedded ECU
 
 A hardware-based project developed in a hackathon setting.
 
-[View repository →](https://github.com/harithakanakam7/Rescue_Zero_V1)
+[View repository](https://github.com/harithakanakam7/Rescue_Zero_V1)
 
 </details>
 
 </details>
 
-<details>
-<summary><b>Career Goal</b></summary>
-<br/>
+## Career Goal
 
 I'm looking to begin my career in **automotive embedded software, ECU development and testing**, contributing to real projects while learning from experienced engineers.
-
-</details>
 
 <details>
 <summary><b>Contact</b></summary>
