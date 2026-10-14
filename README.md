@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Haritha Kanakam 👋
 
-<!--
-**harithakanakam7/harithakanakam7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Automotive Embedded Systems Engineer 🚗
 
-Here are some ideas to get you started:
+I'm an Electronics and Communication Engineering student passionate about embedded systems, automotive electronics, and ECU development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Currently learning Embedded C and automotive embedded systems
+- 🚘 Working with the NXP S32K144 microcontroller
+- 📡 Exploring CAN communication and ECU development
+- 🛠️ Tools: S32 Design Studio, Git, GitHub
+- 🎯 Goal: Automotive Embedded Systems Internship
+
+### 🧰 Technical Interests
+- Embedded C
+- GPIO, ADC, PWM and UART
+- CAN communication
+- AUTOSAR and UDS fundamentals
+- MATLAB / Simulink
+
+### 🚀 Projects
+- [NvM Read at Startup — S32K144](https://github.com/harithakanakam7/Read-All-at-Startup)
+
+### 🤝 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/kharitha07/)
+- [Portfolio](https://harithakanakam.netlify.app/)
+- [GitHub](https://github.com/harithakanakam7)
+
+*Learning by building. Growing through debugging. 🚀*
