@@ -1,121 +1,122 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B8A9F5&height=140&section=header&text=Haritha%20Kanakam&fontSize=38&fontColor=ffffff&fontAlignY=38" alt="Haritha Kanakam banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=120&text=Haritha%20Kanakam&fontSize=34&fontColor=F1F5F9&fontAlignY=42&desc=Electronics%20%26%20Communication%20Engineering&descSize=14&descAlignY=68&descColor=94A3B8" alt="Haritha Kanakam"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=8E7CE0&center=true&vCenter=true&width=560&lines=ECE+Student+%F0%9F%8E%93;Aspiring+Automotive+Embedded+Engineer+%F0%9F%9A%97;Learning+CAN%2C+AUTOSAR+MCAL+%26+UDS+%F0%9F%93%A1;Turning+tiny+MCUs+into+smart+car+features+%E2%9C%A8" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1400&color=6366F1&center=true&vCenter=true&width=520&lines=Aspiring+Automotive+Embedded+Systems+Engineer;NXP+S32K144+%C2%B7+CAN+%C2%B7+Embedded+C;Learning+AUTOSAR+MCAL+%C2%B7+UDS+%C2%B7+Simulink" alt="Typing animation"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kharitha07/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tap_to_connect-F8A5C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://harithakanakam.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Tap_to_visit-B8A9F5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/harithakanakam7">
-    <img src="https://img.shields.io/badge/GitHub-Follow_me-9BE0C8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<p align="center"><i>👇 Tap a section below to open it 👇</i></p>
-
----
-
-<details open>
-<summary><b>🌸 About Me</b></summary>
 <br/>
 
-I'm an Electronics and Communication Engineering student who loves working close to the hardware, from microcontroller peripherals to the way a car's ECUs talk to each other. I enjoy every bug that teaches me something new 🐞
+<details open>
+<summary><b>About</b></summary>
+<br/>
 
-- 🔧 Exploring automotive embedded systems on the **NXP S32K144**
-- 🚘 Learning **CAN communication** and ECU development
-- 💻 Sharpening my **Embedded C** skills
-- 🌱 Currently learning: **AUTOSAR MCAL**, **UDS diagnostics** and **MATLAB/Simulink**
+I'm an Electronics and Communication Engineering student with a focus on embedded software and automotive electronics. I enjoy working close to the hardware, from microcontroller peripherals to the way ECUs communicate inside a vehicle, and I'm building a solid foundation in ECU development.
+
+- Exploring automotive embedded systems on the **NXP S32K144**
+- Studying **CAN communication** and ECU development
+- Strengthening my **Embedded C** programming
+- Currently learning **AUTOSAR MCAL**, **UDS diagnostics** and **MATLAB/Simulink**
 
 </details>
 
 <details>
-<summary><b>🧰 My Toolbox</b></summary>
+<summary><b>Technical Skills</b></summary>
 <br/>
 
-| | Category | Tools & Technologies |
-|---|---|---|
-| 💻 | **Languages** | Embedded C, Python (basics) |
-| 🔌 | **Microcontrollers** | NXP S32K144 |
-| 📡 | **Protocols** | CAN, UART, I2C, SPI |
-| 🛠️ | **Tools & IDEs** | S32 Design Studio, MATLAB / Simulink |
-| 🌿 | **Version Control** | Git, GitHub |
+| Category | Tools & Technologies |
+|:---|:---|
+| **Languages** | Embedded C, Python (basics) |
+| **Microcontrollers** | NXP S32K144 |
+| **Protocols** | CAN, UART, I2C, SPI |
+| **Tools & IDEs** | S32 Design Studio, MATLAB / Simulink |
+| **Version Control** | Git, GitHub |
 
 <p>
-  <img src="https://img.shields.io/badge/Embedded_C-A8D8EA?style=flat-square&logo=c&logoColor=white" alt="Embedded C"/>
-  <img src="https://img.shields.io/badge/Python-FFD6A5?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NXP_S32K144-B8A9F5?style=flat-square" alt="NXP S32K144"/>
-  <img src="https://img.shields.io/badge/CAN-9BE0C8?style=flat-square" alt="CAN"/>
-  <img src="https://img.shields.io/badge/UART_|_I2C_|_SPI-F8A5C2?style=flat-square" alt="Protocols"/>
-  <img src="https://img.shields.io/badge/S32_Design_Studio-CFCFE6?style=flat-square" alt="S32 Design Studio"/>
-  <img src="https://img.shields.io/badge/MATLAB_|_Simulink-FFB5A7?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB and Simulink"/>
-  <img src="https://img.shields.io/badge/Git-F4A6A0?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Embedded_C-1E293B?style=flat-square&logo=c&logoColor=white" alt="Embedded C"/>
+  <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/NXP_S32K144-4F46E5?style=flat-square" alt="NXP S32K144"/>
+  <img src="https://img.shields.io/badge/CAN-4F46E5?style=flat-square" alt="CAN"/>
+  <img src="https://img.shields.io/badge/UART_|_I2C_|_SPI-1E293B?style=flat-square" alt="Protocols"/>
+  <img src="https://img.shields.io/badge/S32_Design_Studio-1E293B?style=flat-square" alt="S32 Design Studio"/>
+  <img src="https://img.shields.io/badge/MATLAB_|_Simulink-1E293B?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB and Simulink"/>
+  <img src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 </details>
 
 <details open>
-<summary><b>🚀 Projects I'm Proud Of</b></summary>
+<summary><b>Featured Projects</b></summary>
 <br/>
 
 <details>
-<summary>🚗 <b>CAN-Based Car Cabin Interior Light</b></summary>
+<summary><b>CAN-Based Car Cabin Interior Light</b></summary>
 <br/>
 
 Door-status communication over CAN and interior light control on the S32K144.
 
-**Tech:** S32K144 · CAN · Embedded C
-👉 [Open on GitHub](https://github.com/harithakanakam7/Car_Cabin_Interior_light_simulation_using_CAN_with_S32K144)
+`S32K144` · `CAN` · `Embedded C`
+
+[View repository →](https://github.com/harithakanakam7/Car_Cabin_Interior_light_simulation_using_CAN_with_S32K144)
 
 </details>
 
 <details>
-<summary>💾 <b>NvM Read at Startup</b></summary>
+<summary><b>NvM Read at Startup</b></summary>
 <br/>
 
 Startup memory readout, RAM mirrors and CRC validation concepts for embedded ECUs.
 
-👉 [Open on GitHub](https://github.com/harithakanakam7/Read-All-at-Startup)
+[View repository →](https://github.com/harithakanakam7/Read-All-at-Startup)
 
 </details>
 
 <details>
-<summary>💡 <b>Rescue Zero V1</b></summary>
+<summary><b>Rescue Zero V1</b></summary>
 <br/>
 
-A hardware project built in a hackathon setting.
+A hardware-based project developed in a hackathon setting.
 
-👉 [Open on GitHub](https://github.com/harithakanakam7/Rescue_Zero_V1)
+[View repository →](https://github.com/harithakanakam7/Rescue_Zero_V1)
 
 </details>
 
 </details>
 
 <details>
-<summary><b>🎯 What I'm Looking For</b></summary>
+<summary><b>Career Goal</b></summary>
 <br/>
 
-Opportunities in **automotive embedded software, ECU development and testing**, where I can contribute, learn from experienced engineers, and keep growing 🌷
+I'm looking to begin my career in **automotive embedded software, ECU development and testing**, contributing to real projects while learning from experienced engineers.
 
 </details>
 
 <details>
-<summary><b>💌 Let's Connect</b></summary>
+<summary><b>Contact</b></summary>
 <br/>
 
-I'm always happy to chat about embedded systems, automotive electronics, or anything on the road to becoming a better engineer.
+Happy to connect and talk about embedded systems and automotive electronics.
 
 [LinkedIn](https://www.linkedin.com/in/kharitha07/) · [Portfolio](https://harithakanakam.netlify.app/) · [GitHub](https://github.com/harithakanakam7)
 
 </details>
 
+<br/>
+
 <p align="center">
-  <i>Build 🛠️ · Learn 📚 · Debug 🐞 · Grow 🌱</i>
+  <sub><i>Build · Learn · Debug · Grow</i></sub>
 </p>
