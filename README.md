@@ -10,21 +10,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kharitha07/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://harithakanakam.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-C9A227?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio"/>
   </a>
   <a href="https://github.com/harithakanakam7">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <br/>
 
-<details open>
-<summary><b>About</b></summary>
-<br/>
+## About
 
 I'm an Electronics and Communication Engineering student with a focus on embedded software and automotive electronics. I enjoy working close to the hardware, from microcontroller peripherals to the way ECUs communicate inside a vehicle, and I'm building a solid foundation in ECU development.
 
@@ -33,42 +31,32 @@ I'm an Electronics and Communication Engineering student with a focus on embedde
 - Strengthening my **Embedded C** programming
 - Currently learning **AUTOSAR MCAL**, **UDS diagnostics** and **MATLAB/Simulink**
 
-</details>
-
-<details open>
-<summary><b>Technical Skills</b></summary>
-<br/>
+## Technical Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Embedded_C-161B22?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C"/>
-  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NXP_S32K144-161B22?style=for-the-badge" alt="NXP S32K144"/>
+  <img src="https://img.shields.io/badge/Embedded_C-2563EB?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C"/>
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/NXP_S32K144-C9A227?style=for-the-badge&logoColor=0D1117" alt="NXP S32K144"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CAN-161B22?style=for-the-badge" alt="CAN"/>
-  <img src="https://img.shields.io/badge/UART-161B22?style=for-the-badge" alt="UART"/>
-  <img src="https://img.shields.io/badge/I2C-161B22?style=for-the-badge" alt="I2C"/>
-  <img src="https://img.shields.io/badge/SPI-161B22?style=for-the-badge" alt="SPI"/>
+  <img src="https://img.shields.io/badge/CAN-0F766E?style=for-the-badge" alt="CAN"/>
+  <img src="https://img.shields.io/badge/UART-0F766E?style=for-the-badge" alt="UART"/>
+  <img src="https://img.shields.io/badge/I2C-0F766E?style=for-the-badge" alt="I2C"/>
+  <img src="https://img.shields.io/badge/SPI-0F766E?style=for-the-badge" alt="SPI"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/S32_Design_Studio-161B22?style=for-the-badge" alt="S32 Design Studio"/>
-  <img src="https://img.shields.io/badge/MATLAB-161B22?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/Simulink-161B22?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
-  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/S32_Design_Studio-334155?style=for-the-badge" alt="S32 Design Studio"/>
+  <img src="https://img.shields.io/badge/MATLAB-334155?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Simulink-334155?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
+  <img src="https://img.shields.io/badge/Git-334155?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-</details>
+## Featured Projects
 
-<details open>
-<summary><b>Featured Projects</b></summary>
-<br/>
-
-<details>
-<summary><b>CAN-Based Car Cabin Interior Light</b></summary>
-<br/>
+### CAN-Based Car Cabin Interior Light
 
 Door-status communication over CAN and interior light control on the S32K144.
 
@@ -76,29 +64,17 @@ Door-status communication over CAN and interior light control on the S32K144.
 
 [View repository](https://github.com/harithakanakam7/Car_Cabin_Interior_light_simulation_using_CAN_with_S32K144)
 
-</details>
-
-<details>
-<summary><b>NvM Read at Startup</b></summary>
-<br/>
+### NvM Read at Startup
 
 Startup memory readout, RAM mirrors and CRC validation concepts for embedded ECUs.
 
 [View repository](https://github.com/harithakanakam7/Read-All-at-Startup)
 
-</details>
-
-<details>
-<summary><b>Rescue Zero V1</b></summary>
-<br/>
+### Rescue Zero V1
 
 A hardware-based project developed in a hackathon setting.
 
 [View repository](https://github.com/harithakanakam7/Rescue_Zero_V1)
-
-</details>
-
-</details>
 
 ## Career Goal
 
