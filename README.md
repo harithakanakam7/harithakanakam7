@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=120&text=Haritha%20Kanakam&fontSize=34&fontColor=F1F5F9&fontAlignY=42&desc=Electronics%20%26%20Communication%20Engineering&descSize=14&descAlignY=68&descColor=94A3B8" alt="Haritha Kanakam"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=120&text=Haritha%20Kanakam&fontSize=34&fontColor=F1F5F9" alt="Haritha Kanakam"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1400&color=6366F1&center=true&vCenter=true&width=520&lines=Aspiring+Automotive+Embedded+Systems+Engineer;NXP+S32K144+%C2%B7+CAN+%C2%B7+Embedded+C;Learning+AUTOSAR+MCAL+%C2%B7+UDS+%C2%B7+Simulink" alt="Typing animation"/>
+  <b>Electronics & Communication Engineering Student</b><br/>
+  Aspiring Automotive Embedded Systems Engineer<br/>
+  <sub>NXP S32K144 · CAN · Embedded C · AUTOSAR MCAL · UDS · Simulink</sub>
 </p>
 
 <p align="center">
@@ -50,9 +52,9 @@ I'm an Electronics and Communication Engineering student with a focus on embedde
   <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/NXP_S32K144-4F46E5?style=flat-square" alt="NXP S32K144"/>
   <img src="https://img.shields.io/badge/CAN-4F46E5?style=flat-square" alt="CAN"/>
-  <img src="https://img.shields.io/badge/UART_|_I2C_|_SPI-1E293B?style=flat-square" alt="Protocols"/>
+  <img src="https://img.shields.io/badge/UART_%7C_I2C_%7C_SPI-1E293B?style=flat-square" alt="Protocols"/>
   <img src="https://img.shields.io/badge/S32_Design_Studio-1E293B?style=flat-square" alt="S32 Design Studio"/>
-  <img src="https://img.shields.io/badge/MATLAB_|_Simulink-1E293B?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB and Simulink"/>
+  <img src="https://img.shields.io/badge/MATLAB_%7C_Simulink-1E293B?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB and Simulink"/>
   <img src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </p>
