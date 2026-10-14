@@ -35,28 +35,29 @@ I'm an Electronics and Communication Engineering student with a focus on embedde
 
 </details>
 
-<details>
+<details open>
 <summary><b>Technical Skills</b></summary>
 <br/>
 
-| Category | Tools & Technologies |
-|:---|:---|
-| **Languages** | Embedded C, Python (basics) |
-| **Microcontrollers** | NXP S32K144 |
-| **Protocols** | CAN, UART, I2C, SPI |
-| **Tools & IDEs** | S32 Design Studio, MATLAB / Simulink |
-| **Version Control** | Git, GitHub |
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded_C-1E293B?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C"/>
+  <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/NXP_S32K144-4F46E5?style=for-the-badge" alt="NXP S32K144"/>
+</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Embedded_C-1E293B?style=flat-square&logo=c&logoColor=white" alt="Embedded C"/>
-  <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NXP_S32K144-4F46E5?style=flat-square" alt="NXP S32K144"/>
-  <img src="https://img.shields.io/badge/CAN-4F46E5?style=flat-square" alt="CAN"/>
-  <img src="https://img.shields.io/badge/UART_%7C_I2C_%7C_SPI-1E293B?style=flat-square" alt="Protocols"/>
-  <img src="https://img.shields.io/badge/S32_Design_Studio-1E293B?style=flat-square" alt="S32 Design Studio"/>
-  <img src="https://img.shields.io/badge/MATLAB_%7C_Simulink-1E293B?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB and Simulink"/>
-  <img src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/CAN-4F46E5?style=for-the-badge" alt="CAN"/>
+  <img src="https://img.shields.io/badge/UART-1E293B?style=for-the-badge" alt="UART"/>
+  <img src="https://img.shields.io/badge/I2C-1E293B?style=for-the-badge" alt="I2C"/>
+  <img src="https://img.shields.io/badge/SPI-1E293B?style=for-the-badge" alt="SPI"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/S32_Design_Studio-1E293B?style=for-the-badge" alt="S32 Design Studio"/>
+  <img src="https://img.shields.io/badge/MATLAB-1E293B?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Simulink-1E293B?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
+  <img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 </details>
