@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=140&section=header&text=Haritha%20Kanakam&fontSize=36&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Haritha Kanakam"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=130&text=Haritha%20Kanakam&fontSize=34&fontColor=E6EDF3&fontAlignY=45" alt="Haritha Kanakam"/>
 </p>
 
 <p align="center">
@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kharitha07/">
-    <img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://harithakanakam.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/harithakanakam7">
-    <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -40,24 +40,24 @@ I'm an Electronics and Communication Engineering student with a focus on embedde
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Embedded_C-1E293B?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C"/>
-  <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NXP_S32K144-8B5CF6?style=for-the-badge" alt="NXP S32K144"/>
+  <img src="https://img.shields.io/badge/Embedded_C-161B22?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C"/>
+  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/NXP_S32K144-161B22?style=for-the-badge" alt="NXP S32K144"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CAN-8B5CF6?style=for-the-badge" alt="CAN"/>
-  <img src="https://img.shields.io/badge/UART-1E293B?style=for-the-badge" alt="UART"/>
-  <img src="https://img.shields.io/badge/I2C-1E293B?style=for-the-badge" alt="I2C"/>
-  <img src="https://img.shields.io/badge/SPI-1E293B?style=for-the-badge" alt="SPI"/>
+  <img src="https://img.shields.io/badge/CAN-161B22?style=for-the-badge" alt="CAN"/>
+  <img src="https://img.shields.io/badge/UART-161B22?style=for-the-badge" alt="UART"/>
+  <img src="https://img.shields.io/badge/I2C-161B22?style=for-the-badge" alt="I2C"/>
+  <img src="https://img.shields.io/badge/SPI-161B22?style=for-the-badge" alt="SPI"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/S32_Design_Studio-1E293B?style=for-the-badge" alt="S32 Design Studio"/>
-  <img src="https://img.shields.io/badge/MATLAB-1E293B?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/Simulink-1E293B?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
-  <img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/S32_Design_Studio-161B22?style=for-the-badge" alt="S32 Design Studio"/>
+  <img src="https://img.shields.io/badge/MATLAB-161B22?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Simulink-161B22?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
+  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 </details>
