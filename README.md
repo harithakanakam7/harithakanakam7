@@ -104,15 +104,11 @@ A hardware-based project developed in a hackathon setting.
 
 I'm looking to begin my career in **automotive embedded software, ECU development and testing**, contributing to real projects while learning from experienced engineers.
 
-<details>
-<summary><b>Contact</b></summary>
-<br/>
+## Contact
 
 Happy to connect and talk about embedded systems and automotive electronics.
 
 [LinkedIn](https://www.linkedin.com/in/kharitha07/) · [Portfolio](https://harithakanakam.netlify.app/) · [GitHub](https://github.com/harithakanakam7)
-
-</details>
 
 <br/>
 
