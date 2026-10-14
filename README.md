@@ -1,28 +1,24 @@
-# Hi, I'm Haritha Kanakam 👋
+# Haritha Kanakam 👋
 
-### Aspiring Automotive Embedded Systems Engineer 🚗
+**ECE Student | Aspiring Automotive Embedded Systems Engineer**
 
-I'm an Electronics and Communication Engineering student passionate about embedded systems, automotive electronics, and ECU development.
+Interested in developing embedded software for automotive ECUs and exploring microcontrollers, vehicle communication, and automotive diagnostics.
 
-- 🔧 Currently learning Embedded C and automotive embedded systems
-- 🚘 Working with the NXP S32K144 microcontroller
-- 📡 Exploring CAN communication and ECU development
-- 🛠️ Tools: S32 Design Studio, Git, GitHub
-- 🎯 Goal: Automotive Embedded Systems Internship
+### 🔧 Technical Skills
+- **Programming:** Embedded C, Python fundamentals
+- **Microcontrollers:** NXP S32K144
+- **Communication:** CAN, UART, I2C, SPI fundamentals
+- **Tools:** S32 Design Studio, Git, GitHub
+- **Currently Learning:** AUTOSAR MCAL, UDS, MATLAB/Simulink
 
-### 🧰 Technical Interests
-- Embedded C
-- GPIO, ADC, PWM and UART
-- CAN communication
-- AUTOSAR and UDS fundamentals
-- MATLAB / Simulink
+### 🚗 Featured Projects
+- **[CAN-Based Car Cabin Interior Light](https://github.com/harithakanakam7/Car_Cabin_Interior_light_simulation_using_CAN_with_S32K144)** — Exploring CAN-based door-status communication and interior light control.
+- **[NvM Read at Startup](https://github.com/harithakanakam7/Read-All-at-Startup)** — Exploring startup memory readout, RAM mirrors, and CRC validation on S32K144.
+- **[Rescue Zero](https://github.com/harithakanakam7/Rescue_Zero_V1)** — Hardware-based project developed in a hackathon context.
 
-### 🚀 Projects
-- [NvM Read at Startup — S32K144](https://github.com/harithakanakam7/Read-All-at-Startup)
+### 🎯 Career Goal
+Seeking opportunities to learn and contribute to automotive embedded software, ECU development, and testing.
 
-### 🤝 Connect With Me
+### 🤝 Connect
 - [LinkedIn](https://www.linkedin.com/in/kharitha07/)
 - [Portfolio](https://harithakanakam.netlify.app/)
-- [GitHub](https://github.com/harithakanakam7)
-
-*Learning by building. Growing through debugging. 🚀*
