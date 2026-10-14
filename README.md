@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=130&text=Haritha%20Kanakam&fontSize=34&fontColor=E6EDF3&fontAlignY=45" alt="Haritha Kanakam"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&text=Haritha%20Kanakam&fontSize=34&fontColor=E6EDF3&fontAlignY=55" alt="Haritha Kanakam"/>
 </p>
 
 <p align="center">
@@ -9,18 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kharitha07/">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://harithakanakam.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-C9A227?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/harithakanakam7">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://www.linkedin.com/in/kharitha07/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://harithakanakam.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-C9A227?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio"/></a>
+  <a href="https://github.com/harithakanakam7"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
-<br/>
 
 ## About
 
@@ -56,25 +48,15 @@ I'm an Electronics and Communication Engineering student with a focus on embedde
 
 ## Featured Projects
 
-### CAN-Based Car Cabin Interior Light
+- **[CAN-Based Car Cabin Interior Light](https://github.com/harithakanakam7/Car_Cabin_Interior_light_simulation_using_CAN_with_S32K144)**
+  Door-status communication over CAN and interior light control on the S32K144.
+  `S32K144` · `CAN` · `Embedded C`
 
-Door-status communication over CAN and interior light control on the S32K144.
+- **[NvM Read at Startup](https://github.com/harithakanakam7/Read-All-at-Startup)**
+  Startup memory readout, RAM mirrors and CRC validation concepts for embedded ECUs.
 
-`S32K144` · `CAN` · `Embedded C`
-
-[View repository](https://github.com/harithakanakam7/Car_Cabin_Interior_light_simulation_using_CAN_with_S32K144)
-
-### NvM Read at Startup
-
-Startup memory readout, RAM mirrors and CRC validation concepts for embedded ECUs.
-
-[View repository](https://github.com/harithakanakam7/Read-All-at-Startup)
-
-### Rescue Zero V1
-
-A hardware-based project developed in a hackathon setting.
-
-[View repository](https://github.com/harithakanakam7/Rescue_Zero_V1)
+- **[Rescue Zero V1](https://github.com/harithakanakam7/Rescue_Zero_V1)**
+  A hardware-based project developed in a hackathon setting.
 
 ## Career Goal
 
@@ -84,9 +66,7 @@ I'm looking to begin my career in **automotive embedded software, ECU developmen
 
 Happy to connect and talk about embedded systems and automotive electronics.
 
-[LinkedIn](https://www.linkedin.com/in/kharitha07/) · [Portfolio](https://harithakanakam.netlify.app/) · [GitHub](https://github.com/harithakanakam7)
-
-<br/>
+[Email](mailto:harithakanakam7@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kharitha07/) · [Portfolio](https://harithakanakam.netlify.app/)
 
 <p align="center">
   <sub><i>Build · Learn · Debug · Grow</i></sub>
